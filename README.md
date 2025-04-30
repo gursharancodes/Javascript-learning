@@ -55,7 +55,7 @@ This repository follows a step-by-step approach, covering:
 ## 🛠 How to Use This Repository
 🔹 Clone the repository:
 ```sh
- git clone https://github.com/uitocode/JavaScript_Learning.git
+ gh repo clone gursharancodes/Javascript-learning
 ```
 🔹 Navigate through the Markdown files and start learning!  
 🔹 Attempt the questions before checking the provided answers.  
